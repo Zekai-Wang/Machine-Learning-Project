@@ -1,2 +1,2 @@
 # Machine-Learning-Project
-### asd
+CS 7324 Course project
