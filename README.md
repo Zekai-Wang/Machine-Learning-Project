@@ -1,2 +1,2 @@
 # Machine-Learning-Project
-CS 7324 Course project
+Those notebooks are my course projects from CS7324
